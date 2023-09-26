@@ -1,5 +1,5 @@
 const user = {
-    name: 'david Doe',
+    name: 'jane Doe',
     age: 25,
     mail: 'jane@mail.com',
     favFilms: ['Spencer', 'Ice Age 3', 'Se7en', 'Inception', 'SAW'],
